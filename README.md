@@ -1,4 +1,4 @@
 # Resume
-The repo has my resume ovet the years.
+The repo has my resume over the years.
 
 I am having expertise in GPS, Automotive and Embedded domain
